@@ -1,2 +1,7 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+body {
+    background: image-url('img1.jpg');
+    background-repeat: repeat;
+}
